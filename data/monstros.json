@@ -1,0 +1,16 @@
+[
+  {"id": "lobo", "name": "Lobo", "emoji": "🐺", "region": "floresta", "category": "comum"},
+  {"id": "javali", "name": "Javali", "emoji": "🐗", "region": "floresta", "category": "comum"},
+  {"id": "aranha", "name": "Aranha Gigante", "emoji": "🕷️", "region": "floresta", "category": "elite"},
+  {"id": "goblin", "name": "Goblin", "emoji": "👺", "region": "montanhas", "category": "comum"},
+  {"id": "urso", "name": "Urso Selvagem", "emoji": "🐻", "region": "montanhas", "category": "comum"},
+  {"id": "harpia", "name": "Harpia", "emoji": "🦅", "region": "montanhas", "category": "elite"},
+  {"id": "escorpiao", "name": "Escorpião Gigante", "emoji": "🦂", "region": "deserto", "category": "comum"},
+  {"id": "bandido", "name": "Bandido", "emoji": "🥷", "region": "deserto", "category": "comum"},
+  {"id": "mumia", "name": "Múmia", "emoji": "🧟", "region": "deserto", "category": "elite"},
+  {"id": "salamandra", "name": "Salamandra de Fogo", "emoji": "🦎", "region": "vulcao", "category": "comum"},
+  {"id": "demonio_menor", "name": "Demônio Menor", "emoji": "👹", "region": "vulcao", "category": "comum"},
+  {"id": "golem_fogo", "name": "Golem de Fogo", "emoji": "🗿", "region": "vulcao", "category": "elite"},
+  {"id": "cavaleiro_negro", "name": "Cavaleiro Negro", "emoji": "🗡️", "region": "castelo", "category": "comum"},
+  {"id": "espectro", "name": "Espectro Real", "emoji": "👻", "region": "castelo", "category": "elite"}
+]
