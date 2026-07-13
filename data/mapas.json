@@ -1,0 +1,56 @@
+[
+  {
+    "id": "vila",
+    "name": "Vila Inicial",
+    "emoji": "🏘️",
+    "minLevel": 1,
+    "safe": true,
+    "desc": "Um vilarejo pacífico onde aventureiros descansam, compram equipamentos e aceitam missões."
+  },
+  {
+    "id": "floresta",
+    "name": "Floresta",
+    "emoji": "🌲",
+    "minLevel": 1,
+    "levelRange": [1, 6],
+    "desc": "Uma floresta densa cheia de lobos, javalis e criaturas selvagens.",
+    "bossId": "boss_lobo_alfa"
+  },
+  {
+    "id": "montanhas",
+    "name": "Montanhas",
+    "emoji": "🏔️",
+    "minLevel": 5,
+    "levelRange": [5, 11],
+    "desc": "Picos gelados habitados por goblins, ursos e harpias.",
+    "bossId": "boss_rei_goblin"
+  },
+  {
+    "id": "deserto",
+    "name": "Deserto",
+    "emoji": "🏜️",
+    "minLevel": 10,
+    "levelRange": [10, 16],
+    "desc": "Areias escaldantes escondendo ruínas amaldiçoadas e bandidos.",
+    "bossId": "boss_farao"
+  },
+  {
+    "id": "vulcao",
+    "name": "Vulcão",
+    "emoji": "🌋",
+    "minLevel": 15,
+    "levelRange": [15, 21],
+    "desc": "Terra devastada por lava, salamandras e demônios menores.",
+    "bossId": "boss_senhor_fogo"
+  },
+  {
+    "id": "castelo",
+    "name": "Castelo Final",
+    "emoji": "🏰",
+    "minLevel": 20,
+    "levelRange": [20, 26],
+    "desc": "O castelo do Rei Demônio — destino final de sua jornada.",
+    "bossId": "boss_rei_demonio",
+    "final": true
+  }
+]
