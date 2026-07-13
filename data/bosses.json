@@ -1,0 +1,7 @@
+[
+  {"id": "boss_lobo_alfa", "name": "Lobo Alfa", "emoji": "🐺", "region": "floresta"},
+  {"id": "boss_rei_goblin", "name": "Rei Goblin", "emoji": "👺", "region": "montanhas"},
+  {"id": "boss_farao", "name": "Faraó Amaldiçoado", "emoji": "🧟‍♂️", "region": "deserto"},
+  {"id": "boss_senhor_fogo", "name": "Senhor do Fogo", "emoji": "🔥", "region": "vulcao"},
+  {"id": "boss_rei_demonio", "name": "Rei Demônio", "emoji": "😈", "region": "castelo", "final": true}
+]
