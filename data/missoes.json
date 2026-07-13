@@ -1,0 +1,9 @@
+[
+  {"id": "q1", "name": "Derrote 10 Lobos", "desc": "Derrote 10 lobos na Floresta.", "type": "kill", "targetId": "lobo", "count": 10, "rewardXp": 100, "rewardGold": 50},
+  {"id": "q2", "name": "Encontre uma Espada Rara", "desc": "Obtenha uma espada de raridade Rara ou superior.", "type": "collect", "targetType": "weapon", "minRarity": "raro", "count": 1, "rewardXp": 80, "rewardGold": 40, "rewardItemId": "pocao_media"},
+  {"id": "q3", "name": "Derrote o primeiro Boss", "desc": "Derrote o Lobo Alfa na Floresta.", "type": "boss", "targetId": "boss_lobo_alfa", "count": 1, "rewardXp": 250, "rewardGold": 150, "rewardItemId": "espada_prata"},
+  {"id": "q4", "name": "Domine as Montanhas", "desc": "Derrote o Rei Goblin.", "type": "boss", "targetId": "boss_rei_goblin", "count": 1, "rewardXp": 400, "rewardGold": 250},
+  {"id": "q5", "name": "Segredos do Deserto", "desc": "Derrote o Faraó Amaldiçoado.", "type": "boss", "targetId": "boss_farao", "count": 1, "rewardXp": 600, "rewardGold": 350},
+  {"id": "q6", "name": "Fúria do Vulcão", "desc": "Derrote o Senhor do Fogo.", "type": "boss", "targetId": "boss_senhor_fogo", "count": 1, "rewardXp": 900, "rewardGold": 500},
+  {"id": "q7", "name": "O Confronto Final", "desc": "Derrote o Rei Demônio no Castelo.", "type": "boss", "targetId": "boss_rei_demonio", "count": 1, "rewardXp": 2000, "rewardGold": 1000}
+]
