@@ -1,0 +1,16 @@
+{
+  "explorationWeights": [
+    {"type": "combat", "weight": 45},
+    {"type": "chest", "weight": 15},
+    {"type": "gold", "weight": 12},
+    {"type": "npc", "weight": 10},
+    {"type": "ambush", "weight": 10},
+    {"type": "merchant", "weight": 8}
+  ],
+  "npcLines": [
+    "Um velho viajante compartilha uma lenda sobre o Castelo Final...",
+    "Um andarilho oferece água e desaparece nas sombras.",
+    "Uma criança perdida agradece sua ajuda e some entre as árvores.",
+    "Um eremita resmunga sobre criaturas cada vez mais fortes na região."
+  ]
+}
