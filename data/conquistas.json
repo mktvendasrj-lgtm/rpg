@@ -1,0 +1,7 @@
+[
+  {"id": "a1", "name": "Primeiro Sangue", "desc": "Derrote seu primeiro monstro.", "emoji": "🏆"},
+  {"id": "a2", "name": "Tesouro Lendário", "desc": "Obtenha seu primeiro item lendário.", "emoji": "🏆"},
+  {"id": "a3", "name": "Veterano", "desc": "Alcance o nível 10.", "emoji": "🏆"},
+  {"id": "a4", "name": "Herói do Reino", "desc": "Derrote o Boss Final.", "emoji": "🏆"},
+  {"id": "a5", "name": "Lenda Completa", "desc": "Complete todas as missões.", "emoji": "🏆"}
+]
