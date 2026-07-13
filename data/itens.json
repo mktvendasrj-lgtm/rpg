@@ -1,0 +1,23 @@
+[
+  {"id": "pocao_pequena", "name": "Poção Pequena", "emoji": "🧪", "type": "potion", "rarity": "comum", "heal": 25, "price": 10, "desc": "Recupera 25 de vida."},
+  {"id": "pocao_media", "name": "Poção Média", "emoji": "🧪", "type": "potion", "rarity": "raro", "heal": 60, "price": 30, "desc": "Recupera 60 de vida."},
+  {"id": "pocao_grande", "name": "Poção Grande", "emoji": "🧪", "type": "potion", "rarity": "epico", "heal": 150, "price": 80, "desc": "Recupera 150 de vida."},
+  {"id": "elixir_lendario", "name": "Elixir Lendário", "emoji": "🧪", "type": "potion", "rarity": "lendario", "heal": 99999, "price": 300, "desc": "Recupera toda a vida."},
+
+  {"id": "espada_madeira", "name": "Espada de Madeira", "emoji": "🗡️", "type": "weapon", "rarity": "comum", "atk": 3, "price": 15},
+  {"id": "espada_ferro", "name": "Espada de Ferro", "emoji": "🗡️", "type": "weapon", "rarity": "comum", "atk": 6, "price": 35},
+  {"id": "espada_prata", "name": "Espada de Prata", "emoji": "🗡️", "type": "weapon", "rarity": "raro", "atk": 12, "crit": 5, "price": 80},
+  {"id": "lamina_sombria", "name": "Lâmina Sombria", "emoji": "🗡️", "type": "weapon", "rarity": "epico", "atk": 20, "crit": 8, "price": 200},
+  {"id": "excalibur", "name": "Excalibur", "emoji": "🗡️", "type": "weapon", "rarity": "lendario", "atk": 35, "crit": 15, "price": 600},
+
+  {"id": "roupa_couro", "name": "Roupa de Couro", "emoji": "🛡️", "type": "armor", "rarity": "comum", "def": 3, "price": 15},
+  {"id": "armadura_ferro", "name": "Armadura de Ferro", "emoji": "🛡️", "type": "armor", "rarity": "comum", "def": 7, "price": 40},
+  {"id": "armadura_prata", "name": "Armadura de Prata", "emoji": "🛡️", "type": "armor", "rarity": "raro", "def": 13, "hp": 20, "price": 90},
+  {"id": "armadura_draconica", "name": "Armadura Dracônica", "emoji": "🛡️", "type": "armor", "rarity": "epico", "def": 22, "hp": 40, "price": 220},
+  {"id": "armadura_divina", "name": "Armadura Divina", "emoji": "🛡️", "type": "armor", "rarity": "lendario", "def": 35, "hp": 80, "price": 650},
+
+  {"id": "anel_sorte", "name": "Anel da Sorte", "emoji": "💍", "type": "accessory", "rarity": "comum", "crit": 3, "price": 20},
+  {"id": "amuleto_vida", "name": "Amuleto da Vida", "emoji": "💍", "type": "accessory", "rarity": "raro", "hp": 30, "price": 60},
+  {"id": "anel_esquiva", "name": "Anel da Esquiva", "emoji": "💍", "type": "accessory", "rarity": "epico", "dodge": 10, "price": 150},
+  {"id": "coroa_ancestral", "name": "Coroa Ancestral", "emoji": "💍", "type": "accessory", "rarity": "lendario", "atk": 10, "def": 10, "crit": 10, "price": 500}
+]
